@@ -1,0 +1,17 @@
+/src
+/node_modules
+/test
+
+.env
+.env.example
+.env.local
+
+.DS_Store
+
+tsconfig.json
+tsup.config.js
+
+.editorconfig
+.prettierrc.json
+
+jest.config.js
